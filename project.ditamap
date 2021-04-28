@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+  <title>Project</title>
+  <topicref href="topics/welcome.dita"/>
+  <topicref href="topics/about.dita"/>
+  <topicref href="topics/membership.dita">
+    <topicref href="topics/benefits.dita"/>
+    <topicref href="topics/testimonials.dita"/>
+    <topicref href="topics/membership_levels.dita"/>
+    <topicref href="topics/roi_examples.dita"/>
+    <topicref href="topics/member_list.dita"/>
+    <topicref href="topics/member_forum.dita"/>
+  </topicref>
+  <topicref href="topics/events.dita">
+    <topicref href="topics/conferences.dita"/>
+    <topicref href="topics/upcoming_webinars.dita"/>
+    <topicref href="topics/past_webinars.dita"/>
+    <topicref href="topics/comtech_training.dita"/>
+    <topicref href="topics/education_bundles.dita"/>
+  </topicref>
+  <topicref href="topics/resources.dita">
+    <topicref href="topics/search_resources.dita"/>
+    <topicref href="topics/best_practices_articles.dita"/>
+    <topicref href="topics/cidm_matters_articles.dita"/>
+    <topicref href="topics/cidm_enews_articles.dita"/>
+    <topicref href="topics/dita_learning_tools.dita"/>
+    <topicref href="topics/research_studies.dita"/>
+    <topicref href="topics/industry_events.dita"/>
+    <topicref href="topics/job_postings.dita"/>
+    <topicref href="topics/internship_postings.dita"/>
+  </topicref>
+  <topicref href="topics/sponsors.dita"/>
+  <topicref href="topics/comtech.dita"/>
+  <topicref href="topics/join_us.dita"/>
+  <topicref href="reusables/reusable_content.ditamap" format="ditamap"
+    processing-role="resource-only"/>
+</map>
