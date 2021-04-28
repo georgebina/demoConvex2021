@@ -1,62 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_mjr_tgc_lpb">
-  <title>About<?oxy_insert_start author="George Bina" timestamp="20210428T145026+0000"?>
-    CIDM<?oxy_insert_end?></title>
-  <body>
-    <p>
-      <div><p>The Center for Information-Development Management
-            <?oxy_insert_start author="Cristian Talau" timestamp="20210428T145028+0000" type="surround"?><term><?oxy_insert_end?>(CIDM)</term>
-          brings together the most highly skilled and talented managers in the field of information
-          development from across the US and internationally to facilitate the sharing of
-          information about current trends, best practices, and developments within the industry,
-          from information development to training and support. </p><p><xref
-            href="https://comtech-serv.com/" format="html" scope="external">Comtech Services</xref>
-          manages CIDM with the help of the Advisory Council, a select group of members.</p><image
-          href="https://www.infomanagementcenter.com/wp-content/uploads/2019/08/DawnStevens_300x300-200x200.jpg"
-          height="250" width="250" id="image_ysb_xgc_lpb"/><b>Dawn Stevens</b>CIDM and Comtech
-          Services<p>Dawn Stevens, is CIDM’s Director and President of Comtech Services. She has 30
-          years of practical experience in virtually every role within a documentation and training
-          department, including project management, instructional design, writing, editing, and
-          multimedia programming.</p><image
-          href="https://www.infomanagementcenter.com/wp-content/uploads/2016/02/RebekkaAndersen-300x289.jpg"
-          height="240.83" width="250" id="image_zsb_xgc_lpb"/><b>Rebekka Andersen</b>University of
-        California, Davis<p>Rebekka Andersen is an associate professor in the University Writing
-          Program at the University of California, Davis, specializing in professional and technical
-          communication. She serves on the CIDM Advisory Council, as an associate editor for IEEE
-          Transactions on Professional Communication, and on the review board of several journals in
-          the field. </p><image
-          href="https://www.infomanagementcenter.com/wp-content/uploads/2019/08/LauraBellamy-200x200.jpeg"
-          height="250" width="250" id="image_atb_xgc_lpb"/><b>Laura Bellamy</b>VMware<p>Laura
-          Bellamy is the Director of Content Strategy &amp; Operations at VMware. She leads a global
-          team of content professionals who are focused on addressing cross-divisional content
-          challenges. She is a co-author of the book DITA Best Practices.</p><image
-          href="https://www.infomanagementcenter.com/wp-content/uploads/2019/08/ChrisGales-300x300.jpg"
-          height="250" width="250" id="image_btb_xgc_lpb"/><b>Christopher
-          Gales</b>Splunk<p>Christopher is the Director of Documentation for Splunk. He has been
-          involved with CIDM since 1999. Chris has 20 years of experience managing information
-          development for end-user, enterprise, and developer audiences, in companies of all
-          sizes.</p><image
-          href="https://www.infomanagementcenter.com/wp-content/uploads/2019/09/JoeGollner-300x300.jpg"
-          height="250" width="250" id="image_ctb_xgc_lpb"/><b>Joe Gollner</b>Gnostyx Research<p>Joe
-          is the Managing Director of Gnostyx Research, a company he founded to help organizations
-          to leverage content technologies to achieve sustainable business benefits. Over the last
-          25 years, he has led over 100 content management initiatives in a wide variety of
-          industries.</p><image
-          href="https://www.infomanagementcenter.com/wp-content/uploads/2016/02/PalmerPearson-150x150.jpg"
-          height="250" width="250" id="image_dtb_xgc_lpb"/><b>Palmer Pearson</b>Independent<p>Palmer
-          has earned a degree in both English and Electronic Engineering. Initially working as an
-          R&amp;D designer, he made the switch into technical publications early in his career to
-          “have fun.” His main concentration of late is searching for innovative methods of sharing
-          technical information.</p><image
-          href="https://www.infomanagementcenter.com/wp-content/uploads/2016/03/DebRoemer_web-150x150.jpg"
-          height="250" width="250" id="image_etb_xgc_lpb"/><b>Deb Roemer</b>Amazon Web
-          Services<p>Deb Roemer is a Manager at AWS and has 20+ years’ experience leading
-          information development and training teams across NA, Europe, China, and India. She enjoys
-          bringing skilled technical writers into software engineering teams, improving quality,
-          speed, and productivity. </p><image
-          href="https://www.infomanagementcenter.com/wp-content/uploads/2021/01/CIDM-BlockOnly-Red.png"
-          height="150" width="150" id="image_ftb_xgc_lpb"/></div>
-    </p>
-  </body>
+    <title>About</title>
+    <body>
+        <p>
+            <div><p>The Center for Information-Development Management
+                        <?oxy_insert_start author="Cristian Talau" timestamp="20210428T145028+0000" type="surround"?><term><?oxy_insert_end?>(CIDM)</term>
+                    brings together the most highly skilled and talented managers in the field of
+                    information development from across the US and internationally to facilitate the
+                    sharing of information about current trends, best practices, and developments
+                    within the industry, from information development to training and support.
+                        </p><p><xref href="https://comtech-serv.com/" format="html" scope="external"
+                        >Comtech Services</xref> manages CIDM with the help of the Advisory Council,
+                    a select group of members.</p><image
+                    href="https://www.infomanagementcenter.com/wp-content/uploads/2019/08/DawnStevens_300x300-200x200.jpg"
+                    height="250" width="250" id="image_ysb_xgc_lpb"/><b>Dawn Stevens</b>CIDM and
+                Comtech Services<p>Dawn Stevens, is CIDM’s Director and President of Comtech
+                    Services. She has 30 years of practical experience in virtually every role
+                    within a documentation and training department, including project management,
+                    instructional design, writing, editing, and multimedia programming.</p><image
+                    href="https://www.infomanagementcenter.com/wp-content/uploads/2016/02/RebekkaAndersen-300x289.jpg"
+                    height="240.83" width="250" id="image_zsb_xgc_lpb"/><b>Rebekka
+                Andersen</b>University of California, Davis<p>Rebekka Andersen is an associate
+                    professor in the University Writing Program at the University of California,
+                    Davis, specializing in professional and technical communication. She serves on
+                    the CIDM Advisory Council, as an associate editor for IEEE Transactions on
+                    Professional Communication, and on the review board of several journals in the
+                    field. </p><image
+                    href="https://www.infomanagementcenter.com/wp-content/uploads/2019/08/LauraBellamy-200x200.jpeg"
+                    height="250" width="250" id="image_atb_xgc_lpb"/><b>Laura
+                    Bellamy</b>VMware<p>Laura Bellamy is the Director of Content Strategy &amp;
+                    Operations at VMware. She leads a global team of content professionals who are
+                    focused on addressing cross-divisional content challenges. She is a co-author of
+                    the book DITA Best Practices.</p><image
+                    href="https://www.infomanagementcenter.com/wp-content/uploads/2019/08/ChrisGales-300x300.jpg"
+                    height="250" width="250" id="image_btb_xgc_lpb"/><b>Christopher
+                    Gales</b>Splunk<p>Christopher is the Director of Documentation for Splunk. He
+                    has been involved with CIDM since 1999. Chris has 20 years of experience
+                    managing information development for end-user, enterprise, and developer
+                    audiences, in companies of all sizes.</p><image
+                    href="https://www.infomanagementcenter.com/wp-content/uploads/2019/09/JoeGollner-300x300.jpg"
+                    height="250" width="250" id="image_ctb_xgc_lpb"/><b>Joe Gollner</b>Gnostyx
+                    Research<p>Joe is the Managing Director of Gnostyx Research, a company he
+                    founded to help organizations to leverage content technologies to achieve
+                    sustainable business benefits. Over the last 25 years, he has led over 100
+                    content management initiatives in a wide variety of industries.</p><image
+                    href="https://www.infomanagementcenter.com/wp-content/uploads/2016/02/PalmerPearson-150x150.jpg"
+                    height="250" width="250" id="image_dtb_xgc_lpb"/><b>Palmer
+                    Pearson</b>Independent<p>Palmer has earned a degree in both English and
+                    Electronic Engineering. Initially working as an R&amp;D designer, he made the
+                    switch into technical publications early in his career to “have fun.” His main
+                    concentration of late is searching for innovative methods of sharing technical
+                    information.</p><image
+                    href="https://www.infomanagementcenter.com/wp-content/uploads/2016/03/DebRoemer_web-150x150.jpg"
+                    height="250" width="250" id="image_etb_xgc_lpb"/><b>Deb Roemer</b>Amazon Web
+                    Services<p>Deb Roemer is a Manager at AWS and has 20+ years’ experience leading
+                    information development and training teams across NA, Europe, China, and India.
+                    She enjoys bringing skilled technical writers into software engineering teams,
+                    improving quality, speed, and productivity. </p><image
+                    href="https://www.infomanagementcenter.com/wp-content/uploads/2021/01/CIDM-BlockOnly-Red.png"
+                    height="150" width="150" id="image_ftb_xgc_lpb"/></div>
+        </p>
+    </body>
 </topic>
